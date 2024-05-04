@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemkaFismat&layout=compact&theme=radical" />
 </a>
 </div>
-🚀 Технологии и языки программирования 🚀
+🚀 \n\nТехнологии и языки программирования 🚀
 </p>
 <div align="bottom">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="c++" width="40" height="40"/>&nbsp;
