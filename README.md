@@ -10,7 +10,7 @@
 </div>
 <p>
 
-🚀 My programming language and technologies 🚀
+🛰️ My programming language and technologies 🛰️
 
 </p>
 
