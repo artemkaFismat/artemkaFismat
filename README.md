@@ -5,10 +5,10 @@
 <div align="left">
 <a href="https://github.com/artemkaFismat/artemkaFismat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=artemkaFismat&show_icons=true&include_all_commits=true&theme=radical" alt="TheAbbie's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemkaFismat&layout=compact&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemkaFismat&layout=compact&theme=radical" />
 </a>
 </div>
-🚀 \n\nТехнологии и языки программирования 🚀
+🚀 Технологии и языки программирования 🚀
 </p>
 <div align="bottom">
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="c++" width="40" height="40"/>&nbsp;
