@@ -8,8 +8,9 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemkaFismat&layout=compact&theme=radical" />
 </a>
 </div>
+<p>
 
-🚀 Top programming language  🚀
+🚀 Top programming language and technologies 🚀
 
 </p>
 
