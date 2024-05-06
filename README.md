@@ -8,13 +8,14 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemkaFismat&layout=compact&theme=radical" />
 </a>
 </div>
-<p>
+
+
+<div align="top">
+  <p>
 
 🛰️ My programming language and technologies 🛰️
 
 </p>
-
-<div align="top">
   <img align="top" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="c++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
