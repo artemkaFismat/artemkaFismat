@@ -23,7 +23,7 @@
 </div>
 <p>
 
-🛰️ My programming language and technologies 🛰️
+⭐ My programming achievements ⭐ 
 
 </p>
 <div align="top">
