@@ -21,6 +21,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt"  alt="Qt" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img style="margin-left: 100px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt"  alt="Qt" width="40" height="40"/>&nbsp;
   <img style="margin: 10px 100px 10px 20px;" src="https://static.tildacdn.com/tild3965-3332-4166-a331-666634303334/Path_4_copy_1.svg" title="Большие вызовы" alt="Большие вызовы" width="70" height="40"/>&nbsp;
 </div>
