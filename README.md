@@ -1,8 +1,4 @@
-⭐🚀 GitHub artemkaFismat
-<p align="center">
-  <img src="https://github.com/artemkaFismat/artemkaFismat/blob/main/waves.svg" width="100%" height="150">  
-</p>
-
+<p color="blue" align="center" font-size="20px">Artem Podlegaev</p>
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=python&logoColor=gold"/> <!--Py-->
   <img src="https://img.shields.io/badge/LINUX-black?style=for-the-badge&logo=linux&logoColor=gold"/> <!--Linux-->
@@ -15,8 +11,11 @@
 </p>  
 
 <a href="https://github.com/artemkaFismat">
-<div align="left">
+<div align="center">
 <a href="https://github.com/artemkaFismat/artemkaFismat">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artemkaFismat&layout=compact&theme=radical" />
 </a>
 </div>
+<p align="center">
+  <img src="https://github.com/artemkaFismat/artemkaFismat/blob/main/waves.svg" width="100%" height="150">  
+</p>
